@@ -1,0 +1,580 @@
+neighbourhood,average_price
+" North Sydney, New South Wales, Australia",314.0
+"ASHFIELD, New South Wales, Australia",240.0
+"Abbotsford, NSW , Australia",170.0
+"Agnes Banks, New South Wales, Australia",230.0
+"Alexandria , New South Wales, Australia",207.0
+"Alexandria, New South Wales, Australia",308.7
+"Allambie Heights, New South Wales, Australia",559.07
+"Allawah, New South Wales, Australia",300.0
+"Allawah/Carlton, New South Wales, Australia",75.0
+"Annandale, New South Wales, Australia",216.76
+"Arcadia, New South Wales, Australia",445.5
+"Arncliffe, New South Wales, Australia",137.09
+"Artarmon, New South Wales, Australia",519.5
+"Ashcroft, New South Wales, Australia",102.0
+"Ashfield, New South Wales, Australia",148.85
+"Asquith, New South Wales, Australia",189.4
+"Auburn, New South Wales, Australia",124.18
+"Austral, New South Wales, Australia",180.89
+Australia,389.0
+"Avalon Beach, New South Wales, Australia",695.31
+"Avalon, New South Wales, Australia",942.0
+"BALGOWLAH, New South Wales, Australia",550.0
+"BONDI, New South Wales, Australia",271.5
+"Balgowlah Heights, New South Wales, Australia",962.67
+"Balgowlah, New South Wales, Australia",474.44
+"Balmain East, New South Wales, Australia",337.42
+"Balmain, New South Wales, Australia",394.88
+"Banksia, New South Wales, Australia",493.0
+"Banksmeadow, New South Wales, Australia",450.0
+"Bankstown, New South Wales, Australia",81.61
+"Bar Point, New South Wales, Australia",720.0
+"Barangaroo, New South Wales, Australia",179.0
+"Bardia, New South Wales, Australia",96.2
+"Bardwell Park, New South Wales, Australia",102.0
+"Bardwell Valley, New South Wales, Australia",172.5
+"Bass Hill, New South Wales, Australia",182.0
+"Baulkham Hills, New South Wales, Australia",141.73
+"Bayview, New South Wales, Australia",663.83
+"Beacon Hill, New South Wales, Australia",303.25
+"Beaconsfield, New South Wales, Australia",195.0
+"Beaumont Hills, New South Wales, Australia",141.75
+"Beecroft, New South Wales, Australia",113.12
+"Belfield, New South Wales, Australia",460.0
+"Bella Vista, New South Wales, Australia",70.7
+"Bellevue Hill, New South Wales, Australia",599.7
+"Belmore, New South Wales, Australia",215.5
+"Belrose, New South Wales, Australia",242.0
+"Berala, New South Wales, Australia",62.45
+"Berowra Creek, New South Wales, Australia",400.0
+"Berowra Heights, New South Wales, Australia",215.5
+"Berowra Waters, New South Wales, Australia",715.36
+"Berowra, New South Wales, Australia",299.17
+"Berrilee, New South Wales, Australia",291.0
+"Beverly Hills, New South Wales, Australia",111.83
+"Bexley North, New South Wales, Australia",119.5
+"Bexley, New South Wales, Australia",220.2
+"Bilgola Beach, New South Wales, Australia",803.56
+"Bilgola Plateau, New South Wales, Australia",608.63
+"Bilgola, New South Wales, Australia",255.0
+"Birchgrove, New South Wales, Australia",319.73
+"Blacktown, New South Wales, Australia",124.17
+"Blair Athol, New South Wales, Australia",44.0
+"Bondi Beach, New South Wales, AU, New South Wales, Australia",199.0
+"Bondi Beach, New South Wales, Australia",428.55
+"Bondi Beach, Sydney, New South Wales, Australia",800.0
+"Bondi Junction Sydney , New South Wales, Australia",243.0
+"Bondi Junction, NS, Australia",393.0
+"Bondi Junction, New South Wales, Australia",278.47
+"Bondi beach , New South Wales, Australia",497.0
+"Bondi, New South Wales, Australia",405.67
+"Bonnet Bay, New South Wales, Australia",550.0
+"Botany, New South Wales, Australia",149.41
+"Box Hill, New South Wales, Australia",89.5
+"Breakfast Point, New South Wales, Australia",116.0
+"Brighton-Le-Sands, New South Wales, Australia",219.8
+"Bronte, New South Wales, Australia",561.55
+"Brooklyn, New South Wales, Australia",232.22
+"Brookvale, New South Wales, Australia",109.5
+"Bundeena, New South Wales, Australia",510.8
+"Bungarribee, New South Wales, Australia",99.0
+"Burraneer, New South Wales, Australia",566.2
+"Burwood, New South Wales, Australia",185.6
+"Busby, New South Wales, Australia",120.0
+"Cabarita, New South Wales, Australia",699.0
+"Cabramatta West, New South Wales, Australia",103.38
+"Cabramatta, New South Wales, Australia",253.62
+"Cambridge Park, New South Wales, Australia",231.0
+"Camden South, New South Wales, Australia",320.0
+"Camden, New South Wales, Australia",316.25
+"Cammeray, New South Wales, Australia",322.94
+"Campbelltown, New South Wales, Australia",213.55
+"Camperdown, New South Wales, Australia",276.88
+"Camperdown, Sydney, New South Wales, Australia",132.0
+"Campsie, New South Wales, Australia",174.33
+"Canada Bay, New South Wales, Australia",371.67
+"Canley Heights, New South Wales, Australia",128.6
+"Canley Vale, New South Wales, Australia",100.0
+"Canoelands, New South Wales, Australia",497.5
+"Canterbury, New South Wales, Australia",158.83
+"Caringbah South, New South Wales, Australia",307.57
+"Caringbah, New South Wales, Australia",240.67
+"Carlingford, New South Wales, Australia",181.67
+"Carlton, New South Wales, Australia",144.0
+"Carramar, New South Wales, Australia",58.83
+"Cartwright, New South Wales, Australia",94.0
+"Castle Cove, New South Wales, Australia",233.6
+"Castle Hill, New South Wales, Australia",172.63
+"Castlecrag, New South Wales, Australia",379.67
+"Castlereagh, New South Wales, Australia",425.0
+"Casula, New South Wales, Australia",174.25
+"Cattai, New South Wales, Australia",5353.33
+"Cecil Hills, New South Wales, Australia",180.0
+"Centennial Park, New South Wales, Australia",500.22
+"Centennial Park, Sydney, New South Wales, Australia",99.0
+"Chatswood West, New South Wales, Australia",106.5
+"Chatswood, New South Wales, Australia",224.23
+"Cheltenham, New South Wales, Australia",144.83
+"Cherrybrook, New South Wales, Australia",98.25
+"Chifley, New South Wales, Australia",320.0
+"Chippendale, New South Wales, Australia",222.08
+"Chiswick, Australia",189.0
+"Chiswick, New South Wales, Australia",236.0
+"Church Point, New South Wales, Australia",412.25
+"City of Canada Bay Council, New South Wales, Australia",300.0
+"Claremont Meadows, New South Wales, Australia",61.0
+"Clareville, New South Wales, Australia",955.67
+"Clontarf, New South Wales, Australia",652.33
+"Clovelly, New South Wales, Australia",625.56
+"Coasters Retreat, New South Wales, Australia",460.25
+"Cobbitty, New South Wales, Australia",240.0
+"Colebee, New South Wales, Australia",256.0
+"Collaroy Plateau, New South Wales, Australia",773.22
+"Collaroy, New South Wales, Australia",465.87
+"Como, New South Wales, Australia",122.0
+"Concord West, New South Wales, Australia",289.5
+"Concord, New South Wales, Australia",228.38
+"Coogee, New South Wales, Australia",460.57
+"Coogee, Nouvelle Galles du Sud, Australia",415.0
+"Cottage Point, New South Wales, Australia",703.0
+"Council of the City of Sydney, New South Wales, Australia",502.67
+"Cowan, New South Wales, Australia",328.0
+"Cranebrook, New South Wales, Australia",147.0
+"Cremorne Point, New South Wales, Australia",582.56
+"Cremorne, New South Wales, Australia",245.6
+"Cremorne, New South-Wales, Australia",150.0
+"Cromer, New South Wales, Australia",420.17
+"Cronulla, New South Wales, Australia",362.4
+"Crows Nest, New South Wales, Australia",259.22
+"Croydon Park, New South Wales, Australia",282.0
+"Croydon, New South Wales, Australia",195.67
+"Curl Curl, New South Wales, Australia",697.11
+"DARLINGHURST, NEW SOUTH WALES, Australia",164.0
+"Daceyville, New South Wales, Australia",108.67
+"Dangar Island, New South Wales, Australia",378.79
+"Darling Point, New South Wales, Australia",446.15
+"Darlinghurst, New South Wales, Australia",326.73
+"Darlinghurst, Sydney, New South Wales, Australia",290.0
+"Darlinghust 2010, NSW Australia, Australia",285.0
+"Darlington, New South Wales, Australia",227.71
+"Dawes Point, Australia",363.0
+"Dawes Point, New South Wales, Australia",639.0
+"Dean Park, New South Wales, Australia",389.0
+"Dee Why Beach, New South Wales, Australia",550.0
+"Dee Why, New South Wales, Australia",379.19
+"Denham Court, New South Wales, Australia",253.0
+"Denistone, New South Wales, Australia",209.0
+"Dolans Bay, Australia",214.0
+"Dolans Bay, New South Wales, Australia",145.0
+"Dolls Point, New South Wales, Australia",124.67
+"Doonside, New South Wales, Australia",207.14
+"Double Bay, New South Wales, Australia",378.39
+"Dover Heights, New South Wales, Australia",388.5
+"Drummoyne, New South Wales, Australia",296.23
+"Dulwich Hill, New South Wales, Australia",163.27
+"Dundas Valley, New South Wales, Australia",108.25
+"Dundas, New South Wales, Australia",500.0
+"Dural, New South Wales, Australia",400.0
+"Earlwood, New South Wales, Australia",175.33
+"East Killara, New South Wales, Australia",349.6
+"East Lindfield, New South Wales, Australia",380.0
+"Eastgardens, New South Wales, Australia",204.54
+"Eastlakes, New South Wales, Australia",499.0
+"Eastwood, New South Wales, Australia",251.88
+"Edgecliff, New South Wales, Australia",438.45
+"Edmondson Park, New South Wales, Australia",285.67
+"Elanora Heights, New South Wales, Australia",459.36
+"Elderslie, New South Wales, Australia",81.0
+"Elizabeth Bay / Sydney, New South Wales, Australia",182.0
+"Elizabeth Bay, New South Wales, Australia",330.03
+"Elvina Bay, New South Wales, Australia",975.0
+"Emu Plains, New South Wales, Australia",223.75
+"Enfield, New South Wales, Australia",83.0
+"Engadine, New South Wales, Australia",265.0
+"Enmore, New South Wales, Australia",224.2
+"Epping, New South Wales, Australia",160.38
+"Ermington, New South Wales, Australia",175.0
+"Erskineville, New South Wales, Australia",255.62
+"Eveleigh, New South Wales, Australia",221.0
+"Fairfield Heights, New South Wales, Australia",354.4
+"Fairfield West, New South Wales, Australia",120.0
+"Fairfield, New South Wales, Australia",93.93
+"Fairlight, New South Wales, Australia",501.33
+"Fiddletown, New South Wales, Australia",400.0
+"Five Dock, New South Wales, Australia",184.2
+"Forest Lodge, New South Wales, Australia",298.85
+"Forestville, New South Wales, Australia",157.9
+"Frenchs Forest, New South Wales, Australia",233.4
+"Freshwater, New South Wales, Australia",575.04
+"GLEBE, New South Wales, Australia",150.0
+"Gables, New South Wales, Australia",75.0
+"Galston, New South Wales, Australia",361.0
+"Girraween, New South Wales, Australia",217.0
+"Gladesville, New South Wales, Australia",219.22
+"Glebe, New South Wales, Australia",245.21
+"Glebe, New South Wales,, Australia",99.0
+"Gledswood Hills, New South Wales, Australia",242.0
+"Glen Alpine, New South Wales, Australia",365.0
+"Glenfield, New South Wales, Australia",136.2
+"Glenfield, Nsw, Australia",217.0
+"Glenhaven, New South Wales, Australia",141.25
+"Glenmore Park, New South Wales, Australia",644.0
+"Glenorie, New South Wales, Australia",248.0
+"Glenwood, New South Wales, Australia",180.0
+"Gordon, New South Wales, Australia",96.71
+"Granville, New South Wales, Australia",270.0
+"Grays Point, New South Wales, Australia",179.0
+"Great Mackerel Beach, New South Wales, Australia",950.64
+"Green Valley, New South Wales, Australia",115.0
+"Greenacre, New South Wales, Australia",176.4
+"Greenwich, New South Wales, Australia",225.04
+"Gregory Hills, New South Wales, Australia",210.0
+"Greystanes, New South Wales, Australia",49.0
+"Guildford West, New South Wales, Australia",109.5
+"Guildford, New South Wales, Australia",248.8
+"Gymea Bay, New South Wales, Australia",290.0
+"Gymea, New South Wales, Australia",366.0
+"Haberfield, New South Wales, Australia",290.42
+"Hammondville, New South Wales, Australia",72.5
+"Harris Park, New South Wales, Australia",247.4
+"Haymarket, New South Wales, Australia",284.75
+"Heathcote, New South Wales, Australia",236.0
+"Hebersham, New South Wales, Australia",113.0
+"Hillsdale, New South Wales, Australia",209.4
+"Hinchinbrook, New South Wales, Australia",50.0
+"Holroyd, New South Wales, Australia",104.0
+"Holsworthy, New South Wales, Australia",70.0
+"Homebush West, New South Wales, Australia",174.5
+"Homebush, New South Wales, Australia",221.34
+"Homesbush, New South Wales, Australia",85.0
+"Hornsby Heights, New South Wales, Australia",96.33
+"Hornsby, New South Wales, Australia",149.18
+"Hunters Hill, New South Wales, Australia",383.14
+"Huntleys Cove, New South Wales, Australia",230.0
+"Hurlstone Park, New South Wales, Australia",228.33
+"Hurstville , New South Wales, Australia",128.0
+"Hurstville Grove, New South Wales, Australia",56.5
+"Hurstville, New South Wales, Australia",165.52
+"Ingleburn, New South Wales, Australia",135.33
+"Ingleside, New South Wales, Australia",272.5
+"Jamisontown, New South Wales, Australia",189.0
+"Jannali, New South Wales, Australia",211.0
+"Jordan Springs, New South Wales, Australia",166.86
+"Kareela, New South Wales, Australia",105.0
+"Kellyville Ridge, New South Wales, Australia",132.67
+"Kellyville, New South Wales, Australia",207.0
+"Kensington , New South Wales, Australia",190.0
+"Kensington, New South Wales, Australia",286.42
+"Kenthurst, Australia",221.0
+"Kenthurst, New South Wales, Australia",608.0
+"Kentlyn, New South Wales, Australia",250.0
+"Killara, New South Wales, Australia",114.53
+"Killarney Heights, New South Wales, Australia",140.0
+"Kings Cross, New South Wales, Australia",135.0
+"Kings Langley, New South Wales, Australia",121.8
+"Kingsford, New South Wales, Australia",197.48
+"Kingsgrove, New South Wales, Australia",155.42
+"Kingswood, New South Wales, Australia",212.17
+"Kirribilli, New South Wales, Australia",448.64
+"Kogarah Bay, New South Wales, Australia",771.75
+"Kogarah, New South Wales, Australia",136.75
+"Ku-ring-gai Chase, New South Wales, Australia",621.0
+"Kurnell, New South Wales, Australia",292.89
+"Kurraba Point, New South Wales, Australia",504.0
+"Kyle Bay, New South Wales, Australia",655.5
+"La Perouse, New South Wales, Australia",706.5
+"Lakemba, New South Wales, Australia",89.5
+"Lane Cove North, New South Wales, Australia",259.93
+"Lane Cove West, New South Wales, Australia",616.5
+"Lane Cove, New South Wales, Australia",178.69
+"Laughtondale, New South Wales, Australia",425.0
+"Lavender Bay, New South Wales, Australia",302.7
+"Leets Vale, New South Wales, Australia",597.0
+"Leichhardt, Australia",95.0
+"Leichhardt, New South Wales, Australia",215.08
+"Leppington, New South Wales, Australia",243.6
+"Lewisham, New South Wales, Australia",139.95
+"Liberty Grove, New South Wales, Australia",246.5
+"Lidcombe, New South Wales, Australia",154.92
+"Lilyfield, New South Wales, Australia",460.33
+"Lindfield, New South Wales, Australia",76.17
+"Linley Point, New South Wales, Australia",157.5
+"Little Bay, New South Wales, Australia",310.71
+"Little bay, Nsw, Australia",80.0
+"Liverpool, New South Wales, Australia",167.73
+"Loftus, New South Wales, Australia",193.5
+"Londonderry, New South Wales, Australia",324.0
+"Longueville, New South Wales, Australia",113.5
+"Lovett Bay, New South Wales, Australia",525.4
+"Lower Portland, New South Wales, Australia",266.0
+"Lugarno, New South Wales, Australia",101.5
+"MORTDALE, New South Wales, Australia",186.0
+"MOSMAN, New South Wales, Australia",879.0
+"Macquarie Fields, New South Wales, Australia",276.5
+"Macquarie Links, New South Wales, Australia",199.0
+"Macquarie Park, New South Wales, Australia",190.18
+"Maianbar, New South Wales, Australia",533.11
+"Malabar, New South Wales, Australia",683.31
+"Manly , New South Wales, Australia",525.5
+"Manly Vale, New South Wales, Australia",258.76
+"Manly, AUS, Australia",479.0
+"Manly, Australia",661.5
+"Manly, New South Wales, Australia",459.4
+"Marayong, New South Wales, Australia",180.0
+"Maroubra Beach, New South Wales, Australia",431.0
+"Maroubra Junction, New South Wales, Australia",319.0
+"Maroubra, New South Wales, Australia",244.7
+"Maroubra,, New South Wales, Australia",1950.0
+"Marrickville, New South Wales, Australia",236.89
+"Marsden Park, New South Wales, Australia",264.17
+"Marsfield, New South Wales, Australia",210.25
+"Mascot, New South Wales, Australia",208.13
+"Matraville, New South Wales, Australia",248.0
+"Mays Hill, New South Wales, Australia",62.0
+"McCarrs Creek, New South Wales, Australia",545.0
+"McMahons Point, New South Wales, Australia",380.17
+"Mccarrs Creek, New South Wales, Australia",494.0
+"Meadowbank, New South Wales, Australia",160.4
+"Melonba, New South Wales, Australia",202.0
+"Melrose Park, New South Wales, Australia",299.5
+"Menai, New South Wales, Australia",419.33
+"Merrylands, New South Wales, Australia",224.6
+"Middle Cove, New South Wales, Australia",464.0
+"Middle Dural, New South Wales, Australia",344.75
+"Middleton Grange, New South Wales, Australia",229.0
+"Millers Point, New South Wales, Australia",408.59
+"Milperra, New South Wales, Australia",301.0
+"Milsons Passage, New South Wales, Australia",455.4
+"Milsons Point, Australia",367.0
+"Milsons Point, New South Wales, Australia",295.71
+"Minto Heights, New South Wales, Australia",175.0
+"Minto, New South Wales, Australia",199.0
+"Miranda, New South Wales, Australia",147.5
+"Mona Vale, New South Wales, Australia",603.47
+"Monterey, New South Wales, Australia",247.8
+"Moorebank, New South Wales, Australia",168.67
+"Mortdale, New South Wales, Australia",177.5
+"Mortlake, New South Wales, Australia",227.0
+"Mosman, Australia",201.33
+"Mosman, New South Wales, Australia",514.67
+"Mount Annan, New South Wales, Australia",179.33
+"Mount Colah, New South Wales, Australia",190.5
+"Mount Druitt, New South Wales, Australia",246.0
+"Mount Pritchard, New South Wales, Australia",96.8
+"Mount Vernon, New South Wales, Australia",975.0
+"NEWTOWN, New South Wales, Australia",243.0
+"NSW 2065 Australia, Australia",383.0
+"NSW BALGOWLAH, Australia",750.0
+"Narellan Vale, New South Wales, Australia",182.5
+"Narellan, New South Wales, Australia",165.0
+"Naremburn, New South Wales, Australia",238.2
+"Narrabeen, New South Wales, Australia",330.53
+"Narraweena, New South Wales, Australia",338.25
+"Narwee, New South Wales, Australia",247.33
+"Neutral Bay, New South Wales, Australia",251.38
+"New South Wales, Australia",341.0
+"New Southwales, New South Wales, Australia",581.0
+"Newington, New South Wales, Australia",193.0
+"Newport, New South Wales, Australia",713.72
+"Newtown, New South Wales, Australia",234.9
+"Nirimba Fields, New South Wales, Australia",189.0
+"Normanhurst, New South Wales, Australia",257.5
+"North Balgowlah, New South Wales, Australia",577.71
+"North Bondi, New South Wales, Australia",502.04
+"North Curl Curl, New South Wales, Australia",584.57
+"North Epping, New South Wales, Australia",74.5
+"North Kellyville, New South Wales, Australia",283.67
+"North Manly, New South Wales, Australia",433.17
+"North Narrabeen, New South Wales, Australia",372.16
+"North Parramatta, New South Wales, Australia",121.33
+"North Rocks, New South Wales, Australia",121.2
+"North Ryde, New South Wales, Australia",201.67
+"North Strathfield, New South Wales, Australia",88.0
+"North Sydney, New South Wales, Australia",228.6
+"North Turramurra, New South Wales, Australia",100.0
+"North Wahroonga, New South Wales, Australia",70.0
+"North Willoughby, New South Wales, Australia",248.5
+"Northbridge, New South Wales, Australia",743.75
+"Northmead, New South Wales, Australia",123.8
+"Northwood, New South Wales, Australia",725.0
+"Norwest, New South Wales, Australia",220.0
+"Oakhurst, New South Wales, Australia",102.0
+"Oatlands, New South Wales, Australia",93.5
+"Oatley, New South Wales, Australia",130.0
+"Old Toongabbie, New South Wales, Australia",40.0
+"Oran Park, New South Wales, Australia",567.0
+"Oxley Park, New South Wales, Australia",172.71
+"Oyster Bay, New South Wales, Australia",392.2
+"PARRAMATTA, New South Wales, Australia",87.0
+"PYRMONT, New South Wales, Australia",419.0
+"Paddington, New South Wales, Australia",388.07
+"Padstow Heights, New South Wales, Australia",379.0
+"Padstow, New South Wales, Australia",65.08
+"Pagewood, New South Wales, Australia",195.5
+"Palm Beach, New South Wales, Australia",1095.79
+"Panania, New South Wales, Australia",77.3
+"Parramatta, New South Wales, Australia",149.85
+"Peakhurst Heights, New South Wales, Australia",71.0
+"Peakhurst, New South Wales, Australia",60.0
+"Pemulwuy, New South Wales, Australia",543.5
+"Pennant Hills, New South Wales, Australia",178.67
+"Penrith, New South Wales, Australia",226.93
+"Penshurst, New South Wales, Australia",118.0
+"Petersham, New South Wales, Australia",234.15
+"Petersham, Sydney, Australia",165.0
+"Phillip Bay, New South Wales, Australia",700.0
+"Plumpton, New South Wales, Australia",299.0
+"Point Piper, New South Wales, Australia",2047.5
+"Port Jackson, Australia",1550.0
+"Potts Point, New South Wales, Australia",264.02
+"Prestons, New South Wales, Australia",389.0
+"Prospect, New South Wales, Australia",106.5
+"Putney, New South Wales, Australia",212.0
+"Pymble, New South Wales, Australia",119.58
+"Pyrmont, Australia",266.0
+"Pyrmont, New South Wales, Australia",333.23
+"QUEENSCLIFF, New South Wales, Australia",202.0
+"Quakers Hill, New South Wales, Australia",70.8
+"Queens Park, New South Wales, Australia",702.33
+"Queenscliff , New South Wales, Australia",623.0
+"Queenscliff, New South Wales, Australia",424.49
+"Ramsgate, New South Wales, Australia",128.0
+"Randwick, New South Wales, Australia",297.82
+"Redfern, New South Wales, Australia",252.11
+"Regents Park, New South Wales, Australia",106.67
+"Regentville, New South Wales, Australia",140.0
+"Revesby, New South Wales, Australia",143.73
+"Rhodes, New South Wales, Australia",253.35
+"Riverstone, New South Wales, Australia",69.0
+"Riverview, New South Wales, Australia",500.0
+"Riverwood, New South Wales, Australia",184.5
+"Rockdale, New South Wales, Australia",168.54
+"Rodd Point, New South Wales, Australia",345.33
+"Rooty Hill, New South Wales, Australia",155.0
+"Ropes Crossing, New South Wales, Australia",129.5
+"Rose Bay, New South Wales, Australia",506.24
+"Rosebery, New South Wales, Australia",268.0
+"Rosehill, New South Wales, Australia",184.2
+"Roselands, New South Wales, Australia",245.75
+"Roseville Chase, New South Wales, Australia",136.0
+"Roseville, New South Wales, Australia",249.82
+"Rossmore, New South Wales, Australia",407.5
+"Rouse Hill, New South Wales, Australia",208.67
+"Royal National Park, New South Wales, Australia",364.0
+"Rozelle, New South Wales, Australia",277.14
+"Rushcutters Bay, New South Wales, Australia",242.66
+"Russell Lea, New South Wales, Australia",282.75
+"Rydalmere, New South Wales, Australia",215.6
+"Ryde, New South Wales, Australia",148.4
+"Sadleir, New South Wales, Australia",55.0
+"Saint Andrews, New South Wales, Australia",121.0
+"Saint Clair, New South Wales, Australia",112.86
+"Saint Ives, New South Wales, Australia",480.2
+"Saint Leonards, New South Wales, Australia",144.0
+"Saint Marys, New South Wales, Australia",133.0
+"Saint Peters, New South Wales, Australia",148.0
+"Sandy Point, New South Wales, Australia",145.0
+"Sans Souci, New South Wales, Australia",194.42
+"Schofields, New South Wales, Australia",162.11
+"Scotland Island, New South Wales, Australia",663.44
+"Seaforth, New South Wales, Australia",446.39
+"Sefton, New South Wales, Australia",126.0
+"Seven Hills    , New South Wales, Australia",147.0
+"Seven Hills, New South Wales, Australia",153.33
+"Silverwater, New South Wales, Australia",50.8
+"Smithfield, New South Wales, Australia",106.0
+"South Coogee, New South Wales, Australia",1127.78
+"South Granville, New South Wales, Australia",59.5
+"South Hurstville, New South Wales, Australia",213.0
+"South Maroota, New South Wales, Australia",476.25
+"South Penrith, New South Wales, Australia",230.0
+"Spring Farm, New South Wales, Australia",230.0
+"St Clair, New South Wales, Australia",120.0
+"St Ives, New South Wales, Australia",202.0
+"St Leonards, New South Wales, Australia",197.57
+"St Peters /Newtown, New South Wales, Australia",500.0
+"St Peters, Australia",122.0
+"St Peters, New South Wales, Australia",254.9
+"Stanhope Gardens, New South Wales, Australia",244.0
+"Stanmore, New South Wales, Australia",168.89
+"Strathfield South, New South Wales, Australia",43.0
+"Strathfield, New South Wales, Australia",194.79
+"Summer Hill, New South Wales, Australia",167.0
+"Surry Hills,  New South Wales, Sydney, Australia",160.0
+"Surry Hills, Australia",189.0
+"Surry Hills, New South Wales, AU, New South Wales, Australia",55.0
+"Surry Hills, New South Wales, Australia",342.14
+"Sutherland, New South Wales, Australia",151.75
+"Sydenham, New South Wales, Australia",190.17
+"Sydney , New South Wales, Australia",232.17
+"Sydney CBD, New South Wales, Australia",298.0
+"Sydney Olympic Park, New South Wales, Australia",319.77
+"Sydney, Australia",500.0
+"Sydney, New South Wales, Australia",389.16
+"Sydney, North South Wales, Australia",300.0
+"Sylvania Waters, New South Wales, Australia",547.0
+"Sylvania, New South Wales, Australia",468.2
+"Tallawong, New South Wales, Australia",212.0
+"Tamarama, New South Wales, Australia",597.58
+"Taren Point, New South Wales, Australia",466.0
+"Telopea, New South Wales, Australia",228.0
+"Tempe, New South Wales, Australia",169.62
+"Tennyson Point, New South Wales, Australia",664.0
+"Terrey Hills, New South Wales, Australia",489.75
+"The Ponds, New South Wales, Australia",153.5
+"The Rocks, New South Wales, Australia",419.39
+"Thornleigh, New South Wales, Australia",168.0
+"Toongabbie East, New South Wales, Australia",130.0
+"Toongabbie, New South Wales, Australia",71.0
+"Turramurra, New South Wales, Australia",259.14
+"Turrella, New South Wales, Australia",182.5
+"Ultimo, New South Wales, Australia",281.78
+"Vaucluse, New South Wales, Australia",504.04
+"Villawood, New South Wales, Australia",141.0
+"Voyager Point, New South Wales, Australia",50.0
+"WAVERTON, Australia",300.0
+"Wahroonga, New South Wales, Australia",278.82
+"Waitara, New South Wales, Australia",232.33
+"Wareemba, New South Wales, Australia",176.25
+"Warrawee, New South Wales, Australia",166.67
+"Warriewood, New South Wales, Australia",479.27
+"Warwick Farm, New South Wales, Australia",104.0
+"Waterloo, New South Wales, Australia",201.21
+"Watsons Bay, New South Wales, Australia",605.6
+"Waverley, New South Wales, Australia",362.0
+"Waverton, New South Wales, Australia",250.62
+"Waverton, North Sydney, New South Wales, Australia",800.0
+"Wentworth Point, New South Wales, Australia",223.39
+"Wentworthville, New South Wales, Australia",152.33
+"Werrington Downs, New South Wales, Australia",72.67
+"Werrington, New South Wales, Australia",188.0
+"West Hoxton, New South Wales, Australia",206.33
+"West Pennant Hills, Australia",113.0
+"West Pennant Hills, New South Wales, Australia",118.2
+"West Pymble, New South Wales, Australia",129.0
+"West Ryde, New South Wales, Australia",119.4
+"Westleigh, New South Wales, Australia",256.0
+"Westmead, New South Wales, Australia",193.8
+"Whale Beach, New South Wales, Australia",1535.95
+"Wheeler Heights , New South Wales, Australia",245.0
+"Wheeler Heights, New South Wales, Australia",387.4
+"Willoughby East, New South Wales, Australia",597.0
+"Willoughby, New South Wales, Australia",420.7
+"Winston Hills, New South Wales, Australia",77.0
+"Wisemans Ferry, New South Wales, Australia",407.82
+"Wolli Creek, New South Wales, Australia",213.72
+"Wollstonecraft, New South Wales, Australia",341.89
+"Woodbine, New South Wales, Australia",292.0
+"Woodpark, New South Wales, Australia",110.0
+"Woollahra, New South Wales, Australia",478.61
+"Woolloomooloo, New South Wales, Australia",294.85
+"Woolooware, New South Wales, Australia",267.6
+"Woolwich, New South Wales, Australia",235.5
+"Yagoona, New South Wales, Australia",164.5
+"Yarrawarrah, New South Wales, Australia",100.0
+"Yowie Bay, New South Wales, Australia",378.0
+"Zetland, New South Wales, Australia",251.76
+"darling harbour, New South Wales, Australia",161.0
+"vaucluse, New South Wales, Australia",414.0
+"• Saint Peters DC, New South Wales, Australia",350.0
