@@ -67,3 +67,4 @@ Other words related to locations, such as Sydney, Beach, Harbour, and Ocean View
 Guest expressions can be easily found as words like enjoy, perfect and beautiful etc. These words indicate that hosts focus on the overall guest experience, promoting a welcoming and enjoyable stay. Overall, the word cloud shows that Airbnb hosts in Sydney emphasize the comfort, convenience, and quality of their properties, highlighting key features and amenities.
 
 # Recommend System
+Use a Word2Vec model to process all text features appearing in reviewers' comments and the description/name/neighborhood overviews in the listings data. Combine all other features in the listings, and implement an interactive interface. Input a user ID to obtain the top five room IDs with the highest cosine similarity, and provide the corresponding room details links.
